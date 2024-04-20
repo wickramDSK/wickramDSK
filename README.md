@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wickramDSK
-- 👀 I’m interested in Programming, Gaming, Music
-- 🌱 I’m currently learning Java, Python
-- 💞️ I’m looking to collaborate on Software developing
+- 👀 I’m interested in Programming, Gaming, Music 😉
+- 🌱 I’m currently learning Java, Python ⌨
+- 💞️ I’m looking to collaborate on Software developing 🧑‍💻
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
