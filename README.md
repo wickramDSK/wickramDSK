@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @wickramDSK
-- 👀 I’m interested in Programming, Gaming, Music 😉
+- 👋 Hi, I’m Supun K Wickramasinghe 😊
+-  👀 I’m interested in Programming, Gaming, Music 😉
 - 🌱 I’m currently learning Java, Python ⌨
 - 💞️ I’m looking to collaborate on Software developing 🧑‍💻
 - 📫 How to reach me ...
