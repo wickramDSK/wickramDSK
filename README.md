@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Supun K Wickramasinghe 😊
 -  👀 I’m interested in Programming, Gaming, Music 😉
-- 🌱 I’m currently learning Java, Python and C# ⌨
-- 💞️ I’m looking to collaborate on Software developing 🧑‍💻
+- 🌱 I’m currently learning Java, Python, C#, HTML, CSS and more... ⌨
+- 💞️ I’m looking to collaborate on Software developing and web developing 🧑‍💻
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 
