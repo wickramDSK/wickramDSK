@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Supun K Wickramasinghe 😊
+- 👀 I’m interested in Programming, Gaming, Music 😉
+- 😄 Pronouns: He/Him
 
 <!-- - 🌱 I’m currently learning Java, Python, C#, HTML, CSS and more... ⌨ -->
 <h2> 💻 &nbsp;My Tech Stack</h2>
@@ -29,14 +31,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wickramDSK&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wickramDSK&theme=dark&background=000000)](https://git.io/streak-stats)
-
--  👀 I’m interested in Programming, Gaming, Music 😉
-- 😄 Pronouns: He/Him
   
-  <h3>Find Me On,</h3>
-  <a href="https://www.linkedin.com/in/wickramdsk">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40"/>
-  </a>
+<h3>Find Me On,</h3>
+<a href="https://www.linkedin.com/in/wickramdsk">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40"/>
+</a>
 
 <!---
 wickramDSK/wickramDSK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
