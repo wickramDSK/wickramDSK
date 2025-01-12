@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Supun K Wickramasinghe 😊
-- 👀 I’m interested in Programming, Gaming, Music 😉
-- 😄 Pronouns: He/Him
+<p align="center">
+  <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"/>
+</p>
+
+# Hi, I’m Supun K Wickramasinghe 👋
+### 👀 I’m interested in Programming, Gaming, Music 😉
+### 😄 Pronouns: He/Him
 
 <!-- - 🌱 I’m currently learning Java, Python, C#, HTML, CSS and more... ⌨ -->
 <h2> 💻 &nbsp;My Tech Stack</h2>
@@ -12,6 +16,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="38" height="38"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="38" height="38"/>&nbsp;&nbsp;
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/> -->
 </p>
 
