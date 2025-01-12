@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"/>
+  <img alt="Coder GIF" height=230 width=300 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"/>
 </p>
 
 # Hi, I’m Supun K Wickramasinghe 👋
