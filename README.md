@@ -1,10 +1,14 @@
 <p align="center">
-  <img alt="Coder GIF" height=230 width=300 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"/>
+  <img alt="Coder GIF" height=230 width=400 src="./programmer.gif"/>
 </p>
 
 # Hi, I’m Supun K Wickramasinghe 👋
 ### 👀 I’m interested in Programming, Gaming, Music 😉
 ### 😄 Pronouns: He/Him
+
+<p align="center">
+  <img alt="Laptop GIF" height=60 width=60 src="./laptop.gif"/>
+</p>
 
 <!-- - 🌱 I’m currently learning Java, Python, C#, HTML, CSS and more... ⌨ -->
 <h2> 💻 &nbsp;My Tech Stack</h2>
