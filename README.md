@@ -39,8 +39,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wickramDSK&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wickramDSK&theme=dark&background=000000)](https://git.io/streak-stats)
-  
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=wickramDSK&theme=highcontrast&border_radius=5)](https://git.io/streak-stats) -->
+
 <h3>Find Me On,</h3>
 <a href="https://www.linkedin.com/in/wickramdsk">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40"/>
