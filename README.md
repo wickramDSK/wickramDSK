@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="NUX_Octodex GIF" src="./NUX_octodex_mini.gif"/>
+  <img alt="NUX_Octodex GIF" src="./NUX_octodex_mini.gif" height=200 width=200/>
 </p>
 
 # Hi, I’m Supun K Wickramasinghe 👋
