@@ -5,14 +5,23 @@
 </p>
 
 ### I’m interested in Programming & Web Development 😊 
-### 👀 I’m looking for an internship in 🧑‍💻:
-* Frontend Developer
-* Fullstack Developer
-* Java Developer
 
-<p align="center">
-  <img alt="Laptop GIF" height=150 width=150 src="./laptop.gif"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <h3> 👀 I’m looking for an internship in 🧑‍💻: </h3>
+      <ul>
+        <li>Frontend Developer</li>
+        <li>Fullstack Developer</li>
+        <li>Java Software Developer</li>
+        <li>Android Developer</li><br>
+      </ul>
+    </td>
+    <td align="right"">
+      <img alt="Laptop GIF" height=150 width=150 src="./laptop.gif"/>
+    </td>
+  </tr>
+</table>
 
 <!-- - 🌱 I’m currently learning Java, Python, C#, HTML, CSS and more... ⌨ -->
 <h2> 💻 &nbsp;My Tech Stack</h2>
