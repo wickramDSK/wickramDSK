@@ -1,10 +1,14 @@
+# Hi, I’m Supun K Wickramasinghe 👋
+
 <p align="center">
   <img alt="NUX_Octodex GIF" src="./NUX_octodex_mini.gif" height=200 width=200/>
 </p>
 
-## Hi, I’m Supun K Wickramasinghe 👋
-### 👀 I’m interested in Programming, Gaming, Music 😉
-### 😄 Pronouns: He/Him
+### I’m interested in Programming & Web Development 😊 
+### 👀 I’m looking for an internship in 🧑‍💻:
+* Frontend Developer
+* Fullstack Developer
+* Java Developer
 
 <p align="center">
   <img alt="Laptop GIF" height=150 width=150 src="./laptop.gif"/>
